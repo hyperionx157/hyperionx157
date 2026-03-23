@@ -1,4 +1,4 @@
-Welcome to @hyperionx157's page
+Welcome to @hyperionx157's page ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 |-------------------------------|
 Most of my projects are kinda crap but idk
 So for now im doing random stuff and later will work on full stack development, html/css/js, and more....
