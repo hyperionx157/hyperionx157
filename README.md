@@ -2,9 +2,7 @@
 
 ### A random student trying to make stuff
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperionx157&label=Profile views&color=0e75b6&style=flat" alt="hyperionx157" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyperionx157" alt="hyperionx157" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=hyperionx157" alt="hyperionx157" /></a> </p>
 
 - 🔭 I'm currently working on **a advanced ubg site with many diffferent features**
 
