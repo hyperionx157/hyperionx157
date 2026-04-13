@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=hyperionx157&theme=radical" alt="hyperionx157" /></a> </p>
 
-- 🔭 I'm currently working on **a advanced ubg site with many diffferent features**
+- 🔭 I'm currently working on **a random ubg project since school sucks**
 
 - 🌱 I'm currently learning **Html/css/js, firebase, and fullstack development**
 
